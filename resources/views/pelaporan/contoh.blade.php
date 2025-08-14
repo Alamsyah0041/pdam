@@ -1,0 +1,1 @@
+@extends('pelaporan.master')
